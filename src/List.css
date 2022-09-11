@@ -1,0 +1,21 @@
+.person{
+    display: flex;
+}
+
+.img__list{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}
+
+.div__list__group{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    flex-direction: column;
+}
+
+.div__main{
+    display: flex;
+    align-items: center;
+}
